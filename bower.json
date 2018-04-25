@@ -7,7 +7,7 @@
   "description": "",
   "main": ["css/icons.css, fonts"],
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
