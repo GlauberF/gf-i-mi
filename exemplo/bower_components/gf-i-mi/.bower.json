@@ -16,11 +16,11 @@
     "test",
     "tests"
   ],
-  "_release": "5b4b928f6e",
+  "_release": "8462b59100",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "5b4b928f6ef3a5d175a3dd402ea2c4b52d75d4ab"
+    "commit": "8462b59100bb826f0a1d050738001fb25ade33c5"
   },
   "_source": "https://github.com/GlauberF/gf-i-mi.git",
   "_target": "*",
