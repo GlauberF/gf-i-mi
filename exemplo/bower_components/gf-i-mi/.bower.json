@@ -1,0 +1,29 @@
+{
+  "name": "gf-i-mi",
+  "homepage": "https://github.com/GlauberF/gf-i-mi",
+  "authors": [
+    "Glauber Funez"
+  ],
+  "description": "",
+  "main": [
+    "css/icons.css, fonts"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "dd9e1c37a4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "dd9e1c37a499542c5eaea21daee5728ce8b96b87"
+  },
+  "_source": "https://github.com/GlauberF/gf-i-mi.git",
+  "_target": "*",
+  "_originalSource": "gf-i-mi",
+  "_direct": true
+}
