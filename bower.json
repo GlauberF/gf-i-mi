@@ -1,5 +1,6 @@
 {
   "name": "gf-i-mi",
+  "version": "0.0.1",
   "homepage": "https://github.com/GlauberF/gf-i-mi",
   "authors": [
     "Glauber Funez"
@@ -7,7 +8,6 @@
   "description": "",
   "main": ["css/icons.css, fonts"],
   "license": "MIT",
-  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
