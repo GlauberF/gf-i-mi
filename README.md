@@ -1,4 +1,4 @@
-# gf-i-mi
+# Glauber Funez - Icons
 
 
 `bower install gf-i-mi`
