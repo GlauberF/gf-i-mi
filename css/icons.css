@@ -2,19 +2,19 @@
 * @Author: Glauber Funez
 * @Date:   2018-04-25 08:07:54
 * @Last Modified by:   Glauber Funez
-* @Last Modified time: 2018-04-25 10:07:11
+* @Last Modified time: 2018-04-25 10:13:05
 */
 
 @font-face {
-    font-family: iconsmind;
+    font-family: gf-vimbo-icons;
     src: url(../fonts/gf-vimbo.eot?-rdmvgc);
-    src: url(../fonts/gf-vimbo.eot?#iefix-rdmvgc) format('embedded-opentype'), url(../fonts/gf-vimbo.woff?-rdmvgc) format('woff'), url(../fonts/gf-vimbo.ttf?-rdmvgc) format('truetype'), url(../fonts/gf-vimbo.svg?-rdmvgc#iconsmind) format('svg');
+    src: url(../fonts/gf-vimbo.eot?#iefix-rdmvgc) format('embedded-opentype'), url(../fonts/gf-vimbo.woff?-rdmvgc) format('woff'), url(../fonts/gf-vimbo.ttf?-rdmvgc) format('truetype'), url(../fonts/gf-vimbo.svg?-rdmvgc#gf-vimbo-icons) format('svg');
     font-weight: 400;
     font-style: normal
 }
 
 .gf-vimbo {
-    font-family: iconsmind!important;
+    font-family: gf-vimbo-icons!important;
     font-style: normal;
     font-weight: 400;
     text-transform: none;

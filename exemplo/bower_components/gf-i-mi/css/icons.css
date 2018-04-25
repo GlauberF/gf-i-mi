@@ -2,13 +2,13 @@
 * @Author: Glauber Funez
 * @Date:   2018-04-25 08:07:54
 * @Last Modified by:   Glauber Funez
-* @Last Modified time: 2018-04-25 09:34:43
+* @Last Modified time: 2018-04-25 10:07:11
 */
 
 @font-face {
     font-family: iconsmind;
-    src: url(../fonts/iconsmind.eot?-rdmvgc);
-    src: url(../fonts/iconsmind.eot?#iefix-rdmvgc) format('embedded-opentype'), url(../fonts/iconsmind.woff?-rdmvgc) format('woff'), url(../fonts/iconsmind.ttf?-rdmvgc) format('truetype'), url(../fonts/iconsmind.svg?-rdmvgc#iconsmind) format('svg');
+    src: url(../fonts/gf-vimbo.eot?-rdmvgc);
+    src: url(../fonts/gf-vimbo.eot?#iefix-rdmvgc) format('embedded-opentype'), url(../fonts/gf-vimbo.woff?-rdmvgc) format('woff'), url(../fonts/gf-vimbo.ttf?-rdmvgc) format('truetype'), url(../fonts/gf-vimbo.svg?-rdmvgc#iconsmind) format('svg');
     font-weight: 400;
     font-style: normal
 }
