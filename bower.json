@@ -6,7 +6,7 @@
     "Glauber Funez"
   ],
   "description": "",
-  "main": ["css/icons.css, fonts"],
+  "main": ["css/icons.css" , "fonts/*"],
   "license": "MIT",
   "ignore": [
     "**/.*",
