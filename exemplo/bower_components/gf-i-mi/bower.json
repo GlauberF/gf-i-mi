@@ -1,12 +1,19 @@
 {
   "name": "gf-i-mi",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/GlauberF/gf-i-mi",
   "authors": [
-    "Glauber Funez"
+    "Glauber Vimbo <glauber@vimbo.com.br>"
+    "Glauber Funez <glauber_funez@hotmail.com>"
   ],
   "description": "",
-  "main": ["css/icons.css, fonts"],
+  "keywords": [
+      "icons"
+  ],
+  "main": [
+      "css/icons.css",
+      "fonts/*"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
